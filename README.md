@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/amanda ribas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanda ribas" height="30" width="40" /></a>
+<a href="https://instagram.com/amandalemox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amandalemox" height="30" width="40" /></a>
+</p>
+
 <!--
 **amandalribas/amandalribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
