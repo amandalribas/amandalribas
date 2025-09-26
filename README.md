@@ -5,9 +5,6 @@
   
   <h3>GitHub Overview:</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=amandalribas&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2"> &nbsp;
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandalribas&theme=radical&title_color=8E2DE2&text_color=fff)
-  
   
   
   <h3>Connect with me:</h3>
